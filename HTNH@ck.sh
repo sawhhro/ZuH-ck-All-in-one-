@@ -253,7 +253,7 @@ fi
 
 
 
-if [ $zuzu = 11 ] || [ $zuzu = 11 ]
+if [ $99 = 11 ] || [ $99 = 11 ]
 then
 termux-open https://m.facebook.com/fb.hack.id.9987
 fi
